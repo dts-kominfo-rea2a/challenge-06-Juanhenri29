@@ -1,3 +1,4 @@
+
 const { bacaData } = require("./fungsiCustom");
 
 // ! JANGAN DIMODIFIKASI
